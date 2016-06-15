@@ -18,5 +18,7 @@ MTK_PROJECT_CONFIG := $(BP_DEVICE_PATH)/ProjectConfig.mk
 
 include device/wileyfox/porridge/BoardConfig.mk
 
+BOARD_USERDATAIMAGE_PARTITION_SIZE:=1240465408
+
 TARGET_KERNEL_CONFIG := cyanogenmod_porridgek3_defconfig
 TARGET_BOOTLOADER_BOARD_NAME := PORRIDGEK3
