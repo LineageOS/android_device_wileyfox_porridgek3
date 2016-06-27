@@ -13,6 +13,8 @@
 # limitations under the License.
 #
 
+MTK_PROJECT_CONFIG := device/wileyfox/porridgek3/ProjectConfig.mk
+
 # Permissions
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.usb.host.xml:system/etc/permissions/android.hardware.usb.host.xml
