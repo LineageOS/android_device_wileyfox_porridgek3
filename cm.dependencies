@@ -4,6 +4,10 @@
     "target_path": "device/cyanogen/mt6735-common"
   },
   {
+    "repository": "android_device_wileyfox_porridge",
+    "target_path": "device/wileyfox/porridge"
+  },
+  {
     "repository": "android_kernel_cyanogen_mt6735",
     "target_path": "kernel/cyanogen/mt6735"
   }
